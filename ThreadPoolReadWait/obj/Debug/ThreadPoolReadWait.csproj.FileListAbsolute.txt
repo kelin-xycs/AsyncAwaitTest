@@ -1,0 +1,9 @@
+C:\新建文件夹\Projects 4\AsyncAwaitTest\ThreadPoolReadWait\bin\Debug\ThreadPoolReadWait.exe.config
+C:\新建文件夹\Projects 4\AsyncAwaitTest\ThreadPoolReadWait\bin\Debug\ThreadPoolReadWait.exe
+C:\新建文件夹\Projects 4\AsyncAwaitTest\ThreadPoolReadWait\bin\Debug\ThreadPoolReadWait.pdb
+C:\新建文件夹\Projects 4\AsyncAwaitTest\ThreadPoolReadWait\obj\Debug\ThreadPoolReadWait.Form1.resources
+C:\新建文件夹\Projects 4\AsyncAwaitTest\ThreadPoolReadWait\obj\Debug\ThreadPoolReadWait.Properties.Resources.resources
+C:\新建文件夹\Projects 4\AsyncAwaitTest\ThreadPoolReadWait\obj\Debug\ThreadPoolReadWait.csproj.GenerateResource.Cache
+C:\新建文件夹\Projects 4\AsyncAwaitTest\ThreadPoolReadWait\obj\Debug\ThreadPoolReadWait.exe
+C:\新建文件夹\Projects 4\AsyncAwaitTest\ThreadPoolReadWait\obj\Debug\ThreadPoolReadWait.pdb
+C:\新建文件夹\Projects 4\AsyncAwaitTest\ThreadPoolReadWait\obj\Debug\ThreadPoolReadWait.csprojResolveAssemblyReference.cache
