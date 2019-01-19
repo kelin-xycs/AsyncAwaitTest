@@ -77,6 +77,9 @@ namespace ThreadPoolBeginRead
 
         private void CompleteRead(IAsyncResult ar)
         {
+
+            s.EndRead(ar);
+
             lock (obj)
             {
                 completedCount++;
